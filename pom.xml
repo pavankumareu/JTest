@@ -11,7 +11,7 @@
 				<version>2.21.0</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>testng2.xml</suiteXmlFile>
+						<suiteXmlFile>${path}.xml</suiteXmlFile>
 						
 						
 					</suiteXmlFiles>
